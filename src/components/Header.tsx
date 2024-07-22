@@ -6,8 +6,8 @@ export default function Header() {
     
     <> 
        <div> 
-        Header 
-              <Grid>hi</Grid>
+        Header how are
+              <Grid></Grid>
        </div>
 
 
